@@ -1,0 +1,17 @@
+=== RS Sehat Sentosa ===
+Rekam medis: RM001
+Pasien kedua: Bima
+Alya masih menunggu pemeriksaan.
+ID: D01 | Nama: Dr. Rina
+Spesialisasi: Anak
+ID: P01 | Nama: Siti
+Shift: Malam
+Dokter Dr. Rina bertugas memeriksa pasien.
+Perawat Siti membantu pelayanan pasien.
+Dokter Dr. Andi memeriksa Alya.
+Alya sudah selesai diperiksa.
+Pasien Alya sudah pernah diperiksa.
+Laporan RM001: Selesai diperiksa
+Laporan RM002: Belum diperiksa
+Dokter Dr. Rina bertugas memeriksa pasien.
+Perawat Siti membantu pelayanan pasien.
